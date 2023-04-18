@@ -1,0 +1,1 @@
+{"version":1,"defects":{"BlogTest::test_add_category":7},"times":{"BlogTest::test_add_post":0.01,"BlogTest::test_add_category":0}}
