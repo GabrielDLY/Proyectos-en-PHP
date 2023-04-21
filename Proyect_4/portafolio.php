@@ -22,7 +22,7 @@ if($_POST){
 
 }
 
-if(!isset($_GET))
+if($_GET)
 {
    
     $id=$_GET['borrar'];
